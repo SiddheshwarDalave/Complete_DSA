@@ -1,5 +1,5 @@
 package LinkListImpl;
-
+//partiall done
 public class Main {
     public static void main(String[] args) {
         LinkedList ll=new LinkedList();
