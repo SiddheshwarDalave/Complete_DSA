@@ -11,7 +11,13 @@ public class Main {
         //StringBuilder(int length)-> create an empty string with capacity as length
 
         //Methods->
+      String a="hmn";
+        System.out.println(a.substring(0));
+        char c='o';
+        System.out.println(c);
 
+        c='j';
+        System.out.println(c);
         /*important ->
         String to string builder
         and
